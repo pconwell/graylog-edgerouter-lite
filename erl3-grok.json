@@ -4,7 +4,7 @@
       "title": "ERL Firewall",
       "extractor_type": "grok",
       "converters": [],
-      "order": 2,
+      "order": 0,
       "cursor_strategy": "copy",
       "source_field": "message",
       "target_field": "",
